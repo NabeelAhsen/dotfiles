@@ -31,3 +31,11 @@ bind-key -n S-Left resize-pane -L
 bind-key -n S-Right resize-pane -R
 bind-key -n S-Down resize-pane -D
 bind-key -n S-Up resize-pane -U
+
+# remove administrative debris (session name, hostname, time) in status bar
+set -g status-left ''
+set -g status-right ''
+
+# increase scrollback lines
+set -g history-limit 10000
+
