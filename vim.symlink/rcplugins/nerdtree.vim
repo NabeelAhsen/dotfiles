@@ -1,5 +1,4 @@
 " NERDTree
-
 " toggle the tree finder NERDTree
 map <C-n> :NERDTreeToggle<CR>
 

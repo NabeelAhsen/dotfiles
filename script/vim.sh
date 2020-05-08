@@ -14,7 +14,9 @@ install_vundle () {
   if [ -d "$target" ]; then
     info "Vundle.vim is already installed, skipping"
   else
-    git clone "$src" "$target"
+    if git clone "$src" "$target" ; then
+      success "Vundle.vim installed to $target"
+    fi
   fi
 
 }

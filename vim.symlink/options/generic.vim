@@ -37,3 +37,4 @@ set splitbelow splitright
 set showbreak="@" " prepend to wrapped lines
 
 set noerrorbells visualbell t_vb=
+
