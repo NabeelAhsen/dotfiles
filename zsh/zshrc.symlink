@@ -1,0 +1,3 @@
+BASE="$PWD/.zsh"
+
+echo $BASE
