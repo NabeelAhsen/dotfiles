@@ -13,9 +13,11 @@ brew 'ruby-install'
 brew 'tmux'
 brew 'vim'
 brew 'wget'
+brew 'zsh'
 
 cask 'caffeine'
 cask 'ngrok'
 cask 'slack'
 cask 'iterm2'
 cask 'google-chrome'
+

@@ -1,2 +1,2 @@
-vim.symlink/bundle
-vim.symlink/undodir
+vim/bundle
+vim/undodir

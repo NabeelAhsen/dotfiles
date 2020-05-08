@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!bin/bash
 
 # Helper functions to help with running scripts
 function info () {

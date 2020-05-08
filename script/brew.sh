@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 source ./script/utils.sh
 
@@ -8,7 +8,7 @@ install_brew () {
 
   if test ! "$( command -v brew )"; then
     info "Installing homebrew"
-    ruby -e "$( curl -fsSL "$(src)" )"
+    /bin/bash -c "$( curl -fsSL "$src" )"
   else
     success "Homebrew already installed"
   fi
@@ -21,5 +21,5 @@ install_brew () {
   fi
 }
 
-install_brew "https://raw.githubusercontent.com/Homebrew/install/master/install"
+install_brew "https://raw.githubusercontent.com/Homebrew/install/master/install.sh"
 
