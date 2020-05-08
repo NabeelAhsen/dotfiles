@@ -14,6 +14,7 @@ brew 'tmux'
 brew 'vim'
 brew 'wget'
 brew 'zsh'
+brew 'ripgrep'
 
 cask 'caffeine'
 cask 'ngrok'
