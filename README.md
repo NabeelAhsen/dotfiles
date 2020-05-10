@@ -1,4 +1,4 @@
-# dotfiles
+# Nabeel's dotfiles
 
 These are my ever-changing vim, zsh, git, tmux, and other config files and 
 utility scripts.
@@ -30,6 +30,17 @@ restart vim by opening vim and running the following commands in normal mode:
 :PluginInstall
 :source ~/.vimrc
 ```
+
+## Why dotfiles?
+
+Dotfiles are used to organize, backup, restore, and sync the preferences and
+settings for your toolbox. They are usually version-controlled and are
+distributed across your various systems and often change over time.
+
+The philosophy behind dotfiles is that they are personal, yet customizable
+enough that anyone can adopt and extend them. There is a huge community of
+developers who share their dotfiles, and so one of the benefits of sharing your
+dotfiles is that you can learn from others while give back to the community.
 
 ## Dotfile components
 
@@ -72,3 +83,4 @@ either inspired me or that I found useful to borrow from.
 * Gabe Berke-Williams' [dotfiles](https://github.com/gabebw/dotfiles)
 * Zach Holman's [dotfiles](https://github.com/holman/dotfiles)
 * And many more …
+

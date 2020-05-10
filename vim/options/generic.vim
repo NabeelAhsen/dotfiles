@@ -26,7 +26,7 @@ set undodir=~/.vim/undodir
 
 set backspace=indent,eol,start " allow backspacing over everything in insert mode
 set autoindent
-set copyindent " copy previous indentation on autoindentation 
+set copyindent " copy previous indentation on autoindentation
 set showmatch " show matching parenthesis
 
 " make searches case-sensitive only if they contain upper-case characters
