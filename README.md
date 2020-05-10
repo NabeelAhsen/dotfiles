@@ -33,14 +33,15 @@ restart vim by opening vim and running the following commands in normal mode:
 
 ## Why dotfiles?
 
-Dotfiles are used to organize, backup, restore, and sync the preferences and
-settings for your toolbox. They are usually version-controlled and are
-distributed across your various systems and often change over time.
+[Dotfiles](https://wiki.archlinux.org/index.php/Dotfiles) are used to organize,
+backup, restore, and sync the preferences and settings for your toolbox. They
+are usually version-controlled and are distributed across your various systems
+and often change over time.
 
 The philosophy behind dotfiles is that they are personal, yet customizable
 enough that anyone can adopt and extend them. There is a huge community of
 developers who share their dotfiles, and so one of the benefits of sharing your
-dotfiles is that you can learn from others while give back to the community.
+dotfiles is that you can learn from others while giving back to the community.
 
 ## Dotfile components
 
