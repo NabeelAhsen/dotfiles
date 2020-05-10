@@ -24,6 +24,7 @@ Plugin 'ntpeters/vim-better-whitespace'
 
 " ====== Powerline, Statusline, etc. ======
 Plugin 'itchyny/lightline.vim'
+Plugin 'junegunn/fzf.vim'
 
 " ====== Themes =====
 " Plugin 'nanotech/jellybeans.vim'

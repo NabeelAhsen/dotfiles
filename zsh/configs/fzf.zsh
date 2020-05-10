@@ -1,3 +1,2 @@
-# Use ripgrep to finetune fzf
-export FZF_DEFAULT_COMMAND='rg --files --hidden --follow --no-ignore-vcs'
-export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
+# Use ag to finetune fzf: https://github.com/ggreer/the_silver_searcher
+export FZF_DEFAULT_COMMAND='ag -g "" --hidden'
