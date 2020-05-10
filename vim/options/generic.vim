@@ -10,6 +10,8 @@ set smarttab		" insert tabs on the start of a line according to shiftwidth, not 
 set modelines=2		" inspect top/bottom 2 lines for modeline
 set scrolloff=999	" when scrolling, keep cursor in the middle
 " set shiftaround		" when at 3 spaces and I hit >>, go to 4, not 5
+set textwidth=79 " autowrap text at 80 characters
+set colorcolumn=-2  " highlight text width
 
 " Copy to the system clipboard
 set clipboard=unnamed
