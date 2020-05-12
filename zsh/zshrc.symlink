@@ -19,6 +19,7 @@ plugins=(
   git
   osx
   ruby
+  tmux
 )
 
 source $ZSH/oh-my-zsh.sh
