@@ -21,6 +21,7 @@ Plugin 'tpope/vim-rails'
 " ===== Syntax =====
 Plugin 'gabrielelana/vim-markdown'
 Plugin 'ntpeters/vim-better-whitespace'
+Plugin 'shime/vim-livedown'
 
 " ====== Powerline, Statusline, etc. ======
 Plugin 'itchyny/lightline.vim'
