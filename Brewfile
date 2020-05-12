@@ -16,6 +16,7 @@ brew 'wget'
 brew 'zsh'
 brew 'the_silver_searcher'
 brew 'tree'
+brew 'gpg'
 
 cask 'caffeine'
 cask 'ngrok'
