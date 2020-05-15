@@ -17,7 +17,7 @@ set-window-option -g pane-base-index 1
 set -g renumber-windows on
 
 # soften status bar color from harsh green to light gray
-set -g status-style bg='#29434e',fg='#eeeeee'
+set -g status-style bg='#3c3836',fg='#ebdbb2'
 
 # bind key r to reload .tmux.config
 bind-key r source-file ~/.tmux.conf \; display-message "~/.tmux.conf reloaded"
