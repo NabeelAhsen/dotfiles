@@ -24,11 +24,18 @@ Plugin 'ntpeters/vim-better-whitespace'
 Plugin 'shime/vim-livedown'
 
 " ====== Powerline, Statusline, etc. ======
-Plugin 'itchyny/lightline.vim'
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
+" Plugin 'itchyny/lightline.vim'
 Plugin 'junegunn/fzf.vim'
+" Plugin 'shinchu/lightline-gruvbox.vim'
 
 " ====== Themes =====
 " Plugin 'nanotech/jellybeans.vim'
-Plugin 'sonph/onehalf', {'rtp': 'vim/'}
+" Plugin 'sonph/onehalf', {'rtp': 'vim/'}
+" Plugin 'dracula/vim', {'name':'dracula'}
+" Plugin 'joshdick/onedark.vim'
+Plugin 'morhetz/gruvbox'
 
 call vundle#end()
+

@@ -23,5 +23,5 @@ call s:SourceConfigFilesIn('rcplugins') " after Vundle loads
 " Vundle.
 filetype plugin indent on
 syntax on
-colorscheme onehalfdark 
+colorscheme gruvbox
 

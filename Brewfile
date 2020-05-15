@@ -1,4 +1,5 @@
 tap 'homebrew/cask'
+tap 'homebrew/cask-fonts'
 tap 'homebrew/bundle'
 tap 'homebrew/services'
 
@@ -25,4 +26,5 @@ cask 'ngrok'
 cask 'slack'
 cask 'iterm2'
 cask 'google-chrome'
+cask 'font-fantasque-sans-mono'
 
