@@ -83,5 +83,6 @@ either inspired me or that I found useful to borrow from.
 * Chris Toomey's [dotfiles](https://github.com/christoomey/dotfiles) 
 * Gabe Berke-Williams' [dotfiles](https://github.com/gabebw/dotfiles)
 * Zach Holman's [dotfiles](https://github.com/holman/dotfiles)
+* Pavel Pertsev's [gruvbox iTerm theme configurations](https://github.com/morhetz/gruvbox-contrib/tree/master/iterm2)
 * And many more …
 
