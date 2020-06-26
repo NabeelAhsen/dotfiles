@@ -4,4 +4,3 @@ alias rm="rm -i"
 alias ag='ag --path-to-ignore ~/.agignore'
 
 # used for generate ctag file
-alias ctags='ctags -R --exclude=node_modules'
