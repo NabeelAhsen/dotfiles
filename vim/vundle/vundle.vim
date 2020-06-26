@@ -19,9 +19,12 @@ Plugin 'vim-ruby/vim-ruby'
 Plugin 'tpope/vim-rails'
 
 " ===== Syntax =====
-Plugin 'gabrielelana/vim-markdown'
+" Plugin 'gabrielelana/vim-markdown'
 Plugin 'ntpeters/vim-better-whitespace'
 Plugin 'shime/vim-livedown'
+Plugin 'tpope/vim-surround'
+Plugin 'sheerun/vim-polyglot'
+Plugin 'ludovicchabant/vim-gutentags'
 
 " ====== Powerline, Statusline, etc. ======
 Plugin 'vim-airline/vim-airline'

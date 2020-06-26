@@ -1,6 +1,8 @@
 " NERDTree
 " toggle the tree finder NERDTree
+let NERDTreeShowHidden=1
 map <C-n> :NERDTreeToggle<CR>
+map <Leader>n :NERDTreeFind<CR>
 
 " highlighting nerdtree files
 function! NERDTreeHighlightFile(extension, fg, bg, guifg, guibg)

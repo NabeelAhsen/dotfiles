@@ -1,3 +1,8 @@
+" Map leader key
+let mapleader=","
+nnoremap <Leader>r :source ~/.vimrc<CR>
+
+
 " Maximum value is 10,000
 set history=10000
 set noswapfile		" https://thoughtbot.com/blog/global-gitignore#comment-458413287
