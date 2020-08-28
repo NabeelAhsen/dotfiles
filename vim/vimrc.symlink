@@ -25,3 +25,6 @@ filetype plugin indent on
 syntax on
 colorscheme gruvbox
 
+if exists("g:loaded_webdevicons")
+  call webdevicons#refresh()
+endif
