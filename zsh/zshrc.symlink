@@ -23,7 +23,3 @@ plugins=(
 )
 
 source $ZSH/oh-my-zsh.sh
-
-# TODO: This is temporary and specific to Shopify. Remove when no longer
-# needed.
-source /opt/dev/dev.sh

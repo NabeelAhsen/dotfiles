@@ -39,3 +39,16 @@ set -g status-right ''
 # increase scrollback lines
 set -g history-limit 10000
 
+# plugins
+# List of plugins
+# To install, run 'prefix + I'
+set -g @plugin 'tmux-plugins/tpm'
+set -g @plugin 'tmux-plugins/tmux-sensible'
+# set -g @plugin 'jsec/tmux-gruvbox-light'
+set -g @plugin 'egel/tmux-gruvbox'
+
+# Other examples:
+set -g @plugin 'tmux-plugins/tmux-resurrect'
+
+# Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
+run -b '~/.tmux/plugins/tpm/tpm'
