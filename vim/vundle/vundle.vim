@@ -12,6 +12,7 @@ Plugin 'gmarik/Vundle.vim'
 " ====== Core utility =====
 Plugin 'scrooloose/nerdtree'
 Plugin 'mustache/vim-mustache-handlebars'
+Plugin 'christoomey/vim-tmux-navigator'
 
 " ====== Ruby/Rails development =====
 Plugin 'vim-ruby/vim-ruby'
