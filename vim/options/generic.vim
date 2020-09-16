@@ -58,3 +58,4 @@ set termguicolors
 set encoding=UTF-8
 " set conceallevel=3
 " set guifont=Droid\ Sans\ Mono\ for\ Powerline\ Nerd\ Font\ Complete:h11
+
