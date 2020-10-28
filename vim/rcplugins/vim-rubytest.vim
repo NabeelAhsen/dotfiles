@@ -1,6 +1,8 @@
 let g:rubytest_output = "vim_terminal"
 
 " let g:rubytest_cmd_test = "ruby %p"
+" let g:rubytest_cmd_test = "dev test -c '%p'"
+" let g:rubytest_cmd_testcase = "dev test -c %p -n '/%c/'"
 " let g:rubytest_cmd_testcase = "ruby %p -n '/%c/'"
 " let g:rubytest_cmd_spec = "spec -f specdoc %p"
 " let g:rubytest_cmd_example = "spec -f specdoc %p -e '%c'"

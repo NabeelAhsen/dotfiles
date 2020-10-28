@@ -59,3 +59,7 @@ set encoding=UTF-8
 " set conceallevel=3
 " set guifont=Droid\ Sans\ Mono\ for\ Powerline\ Nerd\ Font\ Complete:h11
 
+set updatetime=80
+
+" Copy a file path
+nnoremap <leader>p :let @+=expand('%:p')<cr>
