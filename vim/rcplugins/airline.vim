@@ -1,5 +1,4 @@
 " airline.vim support for statusbar
-" let g:airline_theme='gruvbox'   " Autoload by gruvbox
 
 " air-line
 let g:airline_powerline_fonts = 1
