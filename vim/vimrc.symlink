@@ -23,7 +23,8 @@ call s:SourceConfigFilesIn('rcplugins') " after Vundle loads
 " Vundle.
 filetype plugin indent on
 syntax on
-colorscheme gruvbox
+
+call s:SourceConfigFilesIn('theme')
 
 if exists("g:loaded_webdevicons")
   call webdevicons#refresh()
