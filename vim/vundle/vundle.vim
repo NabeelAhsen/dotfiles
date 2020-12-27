@@ -14,6 +14,7 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'mustache/vim-mustache-handlebars'
 Plugin 'christoomey/vim-tmux-navigator'
 Plugin 'preservim/nerdcommenter'
+Plugin 'tpope/vim-fugitive'
 
 " ====== Ruby/Rails development =====
 Plugin 'vim-ruby/vim-ruby'
@@ -39,13 +40,16 @@ Plugin 'airblade/vim-gitgutter'
 " Plugin 'shinchu/lightline-gruvbox.vim'
 Plugin 'ryanoasis/vim-devicons'
 Plugin 'tiagofumo/vim-nerdtree-syntax-highlight'
+Plugin 'Yggdroot/indentLine'
 
 " ====== Themes =====
 " Plugin 'nanotech/jellybeans.vim'
-" Plugin 'sonph/onehalf', {'rtp': 'vim/'}
+Plugin 'sonph/onehalf', {'rtp': 'vim/'}
 " Plugin 'dracula/vim', {'name':'dracula'}
 " Plugin 'joshdick/onedark.vim'
-Plugin 'morhetz/gruvbox'
+" Plugin 'rakr/vim-one'
+" Plugin 'sonph/onehalf'
+" Plugin 'morhetz/gruvbox'
 " Plugin 'vwxyutarooo/nerdtree-devicons-syntax'
 
 call vundle#end()

@@ -4,7 +4,7 @@ let NERDTreeShowHidden=1
 map <C-n> :NERDTreeToggle<CR>
 map <Leader>n :NERDTreeFind<CR>
 
-let g:NERDTreeWinSize = 55
+let g:NERDTreeWinSize = 45
 
 " highlighting nerdtree files
 " function! NERDTreeHighlightFile(extension, fg, bg, guifg, guibg)
